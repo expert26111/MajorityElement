@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "TN/RJr5CbE/G5+yFyQw8H6gyvEIsscZJ29c07ief5fSOVtlkLHcUgwxHmhE/82Ufs3RZFMKK91u29fkE8dJk2g==",
+  "dgSpecHash": "udV8LMaIYWsNbdIyeL9u+81VYHD+Xr5GS+QVAbj1HK3dCEBA8GU2q7CCdgzKlYwJBu50V9g3xwcdoVr5CKaE+Q==",
   "success": true,
   "projectFilePath": "C:\\Users\\45605\\Desktop\\Leetcode\\MajorityElement\\MajorityElement.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\45605\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
+    "C:\\Users\\45605\\.nuget\\packages\\moq\\4.20.70\\moq.4.20.70.nupkg.sha512",
+    "C:\\Users\\45605\\.nuget\\packages\\system.diagnostics.eventlog\\6.0.0\\system.diagnostics.eventlog.6.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

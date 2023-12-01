@@ -13,5 +13,5 @@ Console.WriteLine("Hello, World!");
 //int[] nums = { 3, 2, 3 };
 int[] nums = { 1 };
 Solution sol = new Solution();
-int solution = sol.MajorityElement(nums);
+int solution = Solution.MajorityElement(nums);
 Console.WriteLine("The majority element is: {0}", solution);

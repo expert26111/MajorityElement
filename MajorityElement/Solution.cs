@@ -7,14 +7,11 @@ using System.Threading.Tasks;
 
 namespace MajorityElement
 {
-    internal class Solution
+    public class Solution
     {
-        public int MajorityElement(int[] nums)
+        public static int MajorityElement(int[] nums)
         {
-            // 1st int - 
             Dictionary<int, int> dict = new Dictionary<int, int>();
-            // SortedDictionary<int, int> dict = new SortedDictionary<int, int>(Comparer<int>.Create((x, y) => x.CompareTo(y)));
-            // SortedDictionary<int, int> dict = new SortedDictionary<int, int>().OrderBy();
             int lenghtDict = nums.Length / 2;
             foreach (int num in nums)
             {
